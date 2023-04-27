@@ -11,3 +11,4 @@ Created a new SSH Key in my ubuntu system.
 Fedora was not going well
 There is some issue in Gnome
 Going back to Ubuntu 23.04
+First look of KDE Plasma is great
